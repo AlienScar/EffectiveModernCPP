@@ -7,3 +7,4 @@
 - [Item 3： 理解 decltype](https://www.ubusy.net/2020/07/27/emc1-3/)
 - [Item 4： 查看推导类型](https://www.ubusy.net/2020/07/31/emc1-4//)
 
+[第二章 auto](https://www.ubusy.net/2020/08/03/emc2/)
