@@ -8,3 +8,4 @@
 - [Item 4： 查看推导类型](https://www.ubusy.net/2020/07/31/emc1-4//)
 
 [第二章 auto](https://www.ubusy.net/2020/08/03/emc2/)
+- [推荐用 auto 定义类型](https://www.ubusy.net/2020/08/09/emc1-5/)
